@@ -48,3 +48,11 @@ volumes:
 
 
 ```
+
+### Let’s start it up.
+
+3. Open up your shell to this directory and simply run:
+
+```bash
+$ docker-compose up
+```
