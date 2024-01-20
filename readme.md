@@ -56,3 +56,5 @@ volumes:
 ```bash
 $ docker-compose up
 ```
+
+# And your MySQL instance will prep itself and fire up! What happens:
